@@ -17,4 +17,4 @@ Only supports basic permissions (rwx)
 
 ### Restore
 
-    facl_restory.py backup.facl
+    facl_restore.py backup.facl
